@@ -1,7 +1,6 @@
-# home-assistant-custom-components
-Custom components for Home Assistant (https://www.home-assistant.io/)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-#### Min Renovasjon:
+# Min Renovasjon
 
 ```
 min_renovasjon:
@@ -64,5 +63,5 @@ One or more fractions for which a sensor is to be set up. ID's might be differen
 28: Papir hytter
 ```
 
-# Credits
+## Credits
 https://github.com/eyesoft/home-assistant-custom-components

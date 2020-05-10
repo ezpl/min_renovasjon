@@ -64,3 +64,5 @@ One or more fractions for which a sensor is to be set up. ID's might be differen
 28: Papir hytter
 ```
 
+# Credits
+https://github.com/eyesoft/home-assistant-custom-components

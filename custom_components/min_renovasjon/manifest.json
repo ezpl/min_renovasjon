@@ -1,0 +1,10 @@
+{
+    "domain": "min_renovasjon",
+    "name": "Min renovasjon",
+    "documentation": "https://github.com/ezpl/min_renovasjon",
+    "dependencies": [],
+    "after_dependencies": ["http"],
+    "codeowners": ["@ezpl"],
+    "requirements": [],
+    "iot_class": "cloud_polling"
+  }
